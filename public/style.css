@@ -1,0 +1,7 @@
+body { font: 16px/1.5 system-ui, sans-serif; margin: 0; color: #1c2630; background: #f6f8fa; }
+main { max-width: 880px; margin: 0 auto; padding: 24px 16px; }
+section { background: #fff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; margin: 16px 0; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+h2 { font-size: 1.1rem; margin: 0 0 8px; }
+.state, .empty { color: #57606a; }
+a { color: #0b5cad; }
